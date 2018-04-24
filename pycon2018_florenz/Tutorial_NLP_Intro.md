@@ -144,3 +144,5 @@ Original 21578 news documents, are labeled with 90 classes, and split in 9000 tr
 - Build quantified measures
 - Look at the miss classified samples
 - Try to understand poor performance cases
+
+> Note: Visualize classification process https://eli5.readthedocs.io/en/latest/overview.html
