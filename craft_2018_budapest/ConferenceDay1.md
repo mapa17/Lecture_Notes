@@ -1,14 +1,16 @@
 #Building with Blockchains: Better Distributed Applications
 by John Feminella
 
-Stars: 3/5
+![](../images/Stars3.png)
+
 * Do you realy need Blockchains?
 * Bitcoin is in its 'kinderschuhen' ... it will change a lot in the future
 
 # Guide Refactorings With Behavioral Code Analysis
 by Adam Tornhill
 
-Stars: 4/5
+![](../images/Stars4.png)
+
 * Perform a meta analysis of your git logs
 * Derive metrics from meta data that reveals patterns between isolated components, based on correlating change/alteration activity
 
@@ -16,15 +18,14 @@ Stars: 4/5
 # The Well Rounded Architect
 by Patrick Kua
 
-Stars: 4/5
+![](../images/Stars4.png)
+
 * Build systems, not software (think about interaction, monitoring, future fixes)
 
 # SWARMing: Scaling Without A Religious Methodology
 by Dan North, @tastapod
 
 ![Stars5](../images/Stars5.png)
-
-Stars: 5/5
 
 * In a difficult situation the customer starts out: 'What are we doing so wrong?' -> You are aiming at the wrong target.
 
